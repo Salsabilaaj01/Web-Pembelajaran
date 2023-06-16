@@ -1,0 +1,1 @@
+document.WriteIn("Ini hello world di file JavaScript");
